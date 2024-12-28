@@ -296,6 +296,9 @@ class InvoiceModal extends React.Component {
                 </li>
               </ul>
             </div>
+            <div>
+            <p className="footer" >&copy; 2024  CoderXyz. All rights reserved.</p>
+          </div>
           </div>
         </div>
         <div className="p-4 text-end">
